@@ -7,7 +7,7 @@ url 为爬取目标网页
 输出为 股票分红数据，csb文件
 
 [使用方法]：
-  1.下载PhantomJS.exe
-  2.修改py代码中的PhantomJS.exe路径
-  3.修改url中的COMPANY_CODE=600660股票代码为你需要的股票代码。
-  4.修改to_csv的文件保存路径及文件名。
+  - 1.下载PhantomJS.exe
+  - 2.修改py代码中的PhantomJS.exe路径
+  - 3.修改url中的COMPANY_CODE=600660股票代码为你需要的股票代码。
+  - 4.修改to_csv的文件保存路径及文件名。
